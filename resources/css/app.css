@@ -1,0 +1,18 @@
+/* Menyusun elemen di tengah layar */
+body, html {
+    height: 100%; /* Pastikan tinggi body dan html 100% */
+    margin: 0; /* Menghilangkan margin default */
+}
+
+.min-h-screen {
+    display: flex; /* Gunakan flexbox */
+    justify-content: center; /* Menyusun konten secara horizontal di tengah */
+    align-items: center; /* Menyusun konten secara vertikal di tengah */
+    min-height: 100vh; /* Pastikan tinggi minimal 100% dari layar */
+}
+
+/* Untuk konten utama */
+main {
+    width: 80%; /* Tentukan lebar konten jika perlu */
+    max-width: 1200px; /* Tentukan lebar maksimal */
+}
