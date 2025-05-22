@@ -1,0 +1,5 @@
+✅ Login berhasil.
+✅ Berhasil membuka halaman daftar artikel.
+✅ Tombol '+ Tambah Artikel' berhasil diklik.
+✅ Form artikel terisi. Judul: 'Exist child begin.', Isi: 'Religious road would capital. Near nice same. Mean road majo...'
+✅ Artikel berhasil disubmit dan redirect ke halaman index.

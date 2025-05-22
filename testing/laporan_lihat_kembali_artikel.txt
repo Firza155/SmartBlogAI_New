@@ -1,0 +1,5 @@
+✅ Login berhasil.
+✅ Berhasil membuka halaman daftar artikel.
+✅ Tombol 'Lihat' diklik.
+✅ Artikel tampil. Judul: 'Exist child begin.'
+✅ Berhasil kembali ke daftar artikel.

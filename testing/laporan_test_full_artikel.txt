@@ -1,0 +1,6 @@
+✅ Login berhasil.
+✅ Form artikel terisi. Judul: 'Main lead receive bank.'
+✅ Artikel tampil. Judul: 'Main lead receive bank.'
+✅ Artikel diedit. Judul baru: 'Law every bit ten by from.'
+✅ Konfirmasi hapus diterima.
+✅ Artikel berhasil dihapus.

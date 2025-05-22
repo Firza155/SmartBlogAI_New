@@ -1,0 +1,6 @@
+✅ Login berhasil.
+✅ Berhasil membuka halaman daftar artikel.
+✅ Tombol 'Edit' diklik.
+✅ Halaman edit artikel terbuka.
+✅ Artikel diedit. Judul baru: 'Serve little three policy where father.', Isi baru: 'Yeah also own try politics spring. Memory side traditional a...'
+✅ Redirect berhasil ke daftar artikel setelah update.

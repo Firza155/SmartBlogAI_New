@@ -1,0 +1,5 @@
+✅ Email field filled.
+✅ Password field filled.
+✅ 'Remember me' clicked.
+✅ Login button clicked.
+✅ Langsung diarahkan ke halaman /articles.
